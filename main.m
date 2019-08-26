@@ -1,3 +1,7 @@
+% Based on "Using the Joint Distributions of a Cryptographic Function in Side Channel Analysis" 
+% by Linge et al.
+% author - kostaspap88@gmail.com - kpcrypto.net
+
 
 clear all;
 close all;
